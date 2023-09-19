@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Differential Equations"
+    ]
+  ],
+  "legacy_uid": "68cd2871-8b6b-938b-8c91-b34f6032f827",
+  "instructors": {
+    "content": [
+      "78742779-553b-1abf-161d-125c1351b2fb"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8bc4e309-88fc-5891-57a7-88d504ca60bc",
+    "website": "18-966-geometry-of-manifolds-spring-2007"
+  },
+  "course_title": "Geometry of Manifolds",
+  "course_description": "This is a second-semester graduate course on the geometry of manifolds. The main emphasis is on the geometry of symplectic manifolds, but the material also includes long digressions into complex geometry and the geometry of 4-manifolds, with special emphasis on topological considerations.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.966",
+  "course_image_thumbnail": {
+    "content": "409ab8de-3aae-ab31-5d78-0f49d5f458dc",
+    "website": "18-966-geometry-of-manifolds-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "d5a256bc-ff46-4534-bbc0-b7c1878a538c",
+  "site_short_id": "18.966-spring-2007",
+  "title": "Course Metadata"
+}
